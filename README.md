@@ -1,6 +1,6 @@
 # 🤖 3-DOF Planar Robot Simulator (LabVIEW 2025)
 
-![Project Banner](https://github.com/youssefadell11/ROS2-Cheat-Sheet-/issues/1#issue-3712824579)
+![Project Banner](<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/a97e68bb-5703-4518-9633-2e778ca69240" />)
 
 ## 📝 Overview
 This repository contains a comprehensive **Digital Twin simulation of a 3-DOF (RRR) Planar Robotic Manipulator** developed in **LabVIEW 2025**. 
