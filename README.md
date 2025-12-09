@@ -1,6 +1,6 @@
 # 🤖 3-DOF Planar Robot Simulator (LabVIEW 2025)
 
-![Project Banner](<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/178bc2c2-7aec-4cf7-9e7a-ff6451cf7284" />)
+<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/178bc2c2-7aec-4cf7-9e7a-ff6451cf7284" />
 
 ## 📝 Overview
 This repository contains a comprehensive **Digital Twin simulation of a 3-DOF (RRR) Planar Robotic Manipulator** developed in **LabVIEW 2025**. 
