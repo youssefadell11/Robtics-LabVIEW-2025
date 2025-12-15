@@ -53,11 +53,6 @@ The project is designed to bridge the gap between theoretical mechanics and prac
 ## 📂 Project Structure
 
 ```text
-├── Main VIs/
-│   ├── RRR_Forward_Kinematics_2025.vi       # Manual Angle Control
-│   ├── RRR_Inverse_Kinematics_2025.vi       # Cartesian Target Control
-│   ├── RRR_Trajectory_Generation_2025.vi    # Automated Path Planning
-│   └── RRR_Joystick_Control_2025.vi         # Real-time Hardware Control
 ├── Documentation/
 │   └── Report.pdf                           # Detailed Technical Report
 └── README.md
